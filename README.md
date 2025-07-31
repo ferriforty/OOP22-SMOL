@@ -17,7 +17,14 @@ Il software è stato sviluppato da:
 Per il corso di programmazione a oggetti.
 
 ## Build
-Puoi buildare il progetto usando Gradlew, prima di tutto bisogna clonare la repository:
+
+Puoi buildare il progetto usando Gradlew, prima di tutto bisogna aver java JDK 17, puoi verificare la tua versione con il comando:
+```bash
+java --version
+```
+
+
+Clonare il repository:
 
 ```bash
 git clone git@github.com:TheDarkRuler/OOP22-SMOL.git
